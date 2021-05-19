@@ -1,7 +1,7 @@
 Package: curatedBladderData
 Type: Package
 Title: Bladder Cancer Gene Expression Analysis
-Version: 1.28.0
+Version: 1.29.0
 Date: 2019-03-28
 Author: Markus Riester
 Maintainer: Markus Riester <markus@jimmy.harvard.edu>
